@@ -1,0 +1,6 @@
+{
+  "client": {
+    "source": "reatjsdemo",
+    "plugin": "zcatalyst-cli-plugin-react"
+  }
+}
